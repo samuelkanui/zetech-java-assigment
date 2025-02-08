@@ -45,21 +45,21 @@ Show Active Rentals: Displays a list of active car rentals.
 Data Interaction: Depending on your action, the corresponding information will be displayed in the table or a dialog box.
 ## Example Screenshots
 Welcome Screen: A greeting message and "Start" button to begin.
-![alt text](<../images/Screenshot 2025-02-08 210304.png>)
+![alt text](<images/Screenshot 2025-02-08 210304.png>)
 
 Main Menu: A menu with buttons to perform the actions such as viewing available cars or renting a car.
-![alt text](<../images/Screenshot 2025-02-08 213312.png>)
+![alt text](<images/Screenshot 2025-02-08 213312.png>)
 Table Views: Information displayed in a table format, such as available cars, customers, or active rentals.
 ## Available cars
-![alt text](<../images/Screenshot 2025-02-08 210616.png>)
+![alt text](<images/Screenshot 2025-02-08 210616.png>)
 ## Available customers
-![alt text](<../images/Screenshot 2025-02-08 211111.png>)
+![alt text](<images/Screenshot 2025-02-08 211111.png>)
 ## how to add customers
-![alt text](<../images/Screenshot 2025-02-08 211149.png>)
+![alt text](<images/Screenshot 2025-02-08 211149.png>)
 ## The total of rented cars and amount
-![alt text](<../images/Screenshot 2025-02-08 211558.png>)
+![alt text](<images/Screenshot 2025-02-08 211558.png>)
 ## How to select the car the customer want to rent
-![alt text](<../images/Screenshot 2025-02-08 211330.png>)
+![alt text](<images/Screenshot 2025-02-08 211330.png>)
 
 ## Code Structure
 The code is structured in the following way:
@@ -73,7 +73,7 @@ CarRentalSystemGUI: Contains the main GUI logic, creating the user interface and
 Main Method:
 The main method initializes the GUI and begins the application. The SwingUtilities.invokeLater() method is used to ensure that the GUI is created on the Event Dispatch Thread (EDT).
 ## This are the steps of running this code and navigating through the directories
-![alt text](<../images/Screenshot 2025-02-08 214434.png>)
+![alt text](<images/Screenshot 2025-02-08 214434.png>)
 
 ## License
 This project is open source and available under the MIT License.
